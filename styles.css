@@ -1,0 +1,55 @@
+body {
+    background-color: lightyellow;
+    margin: 0 auto;
+    min-height: 100%;
+    padding: 40px; 
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+  }
+  
+  header{
+    font-family: helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold; 
+    font-size: 15px;
+  }
+ #article{
+    font-family: helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold; 
+}
+body{
+    font-family: helvetica, sans-serif;
+}
+
+.pictext{
+
+    margin-right: auto;
+}
+h4{
+    font-family: helvetica, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: lightblue;
+    outline: 3px solid black;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold; 
+    font-size: 2rem;
+
+    outline-style: solid;
+    outline-color: gray;
+    outline-width: 5px 
+
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
